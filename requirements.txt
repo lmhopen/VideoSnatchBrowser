@@ -1,0 +1,6 @@
+cloakbrowser>=0.3.31
+playwright>=1.40
+PyQt5>=5.15
+yt-dlp>=2024.0
+httpx>=0.24
+cryptography>=41.0
